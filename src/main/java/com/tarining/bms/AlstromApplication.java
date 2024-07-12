@@ -8,7 +8,8 @@ public class AlstromApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlstromApplication.class, args);
-		System.out.println("Alstro");
+		System.out.println("Alstrom");
+		System.out.println("xyz");
 	}
 
 }
